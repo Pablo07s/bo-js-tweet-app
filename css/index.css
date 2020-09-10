@@ -1,0 +1,21 @@
+#tweet {
+    width: 100%;
+}
+
+#btn_guardar {
+    margin: 10px auto;
+    width: 100%;
+}
+
+#mensajes {
+    text-align: center;
+    margin: auto;
+    display: block;
+}
+
+.btnEliminar {
+    color: red;
+    float: right;
+    cursor: pointer;
+    font-size: medium;
+}
